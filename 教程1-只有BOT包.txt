@@ -1,4 +1,4 @@
-﻿只有 BOT 包：三步安装
+只有 BOT 包：三步安装
 
 已兼容网页工具 0.8.3；支持 BF4 LAN BOT ALPHA v0.1（2026-10-15）。
 
@@ -15,4 +15,4 @@
 原版 BOT 包发布视频：https://www.bilibili.com/video/BV1hzJU6zE3g/
 网页／联机工具更新视频：https://www.bilibili.com/video/BV1qmnH6GEPe/
 
-修正版 easy2：已修复安装 MOD 后开服助手误报文件更改的问题。已装旧版分享 MOD 请先还原；只有 BOT 包路线重新安装时选择空目录。
+修正版 easy3：修复全队友部署加载的地址占用和启动时序问题，本机用户已确认恢复，增加两端加载提示；保留 easy2 的开服校验修复。旧版分享 MOD 请先还原再安装，只有 BOT 包路线选择空英文目录。
