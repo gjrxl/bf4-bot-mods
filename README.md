@@ -6,8 +6,10 @@
 
 ## 下载
 
-- [GitHub下载](https://github.com/gjrxl/bf4-bot-mods/releases/latest)：选择 **BF4-MOD-Easy-0.8.3-easy V0.2.zip**（约37MB）。Source code是仓库文档。
+- [GitHub下载](https://github.com/gjrxl/bf4-bot-mods/releases/latest)：选择 **BF4-MOD-Easy-0.8.3-easy.V0.2.zip**（约37MB）。Source code是仓库文档。
 - [网盘下载](https://wwavs.lanzouv.com/iUxrU4dml7dg)，提取密码：**349y**。
+GitHub会将文件名的空格转成点；网盘原名为 BF4-MOD-Easy-0.8.3-easy V0.2.zip，两者内容相同。GitHub附件可用SHA256SUMS.txt校验。
+
 - [历史版本](https://github.com/gjrxl/bf4-bot-mods/releases)。
 
 ## 三步安装
