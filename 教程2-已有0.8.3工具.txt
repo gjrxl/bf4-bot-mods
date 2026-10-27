@@ -28,3 +28,5 @@ V0.2更新：修复无限备弹导致人机不开火、无散布连射累积；�
 GitHub新版：https://github.com/gjrxl/bf4-bot-mods/releases/latest
 
 安装包文件名：BF4-MOD-Easy-0.8.3-easy V0.2.zip。V0.2对应内部修订号easy5。弹药/无散布使用网页0.8.3原有选项，独立设置窗口维持原有功能。旧MOD先卸载/还原后再装新版。
+
+GitHub自动把文件名中的空格转为点，附件显示为BF4-MOD-Easy-0.8.3-easy.V0.2.zip；网盘保留空格原名，内容相同。
