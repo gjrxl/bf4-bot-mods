@@ -1,16 +1,20 @@
-踹哈 MOD V0.3｜只有 BOT 包
+V0.4：只有 BOT 包的安装方法
 
-准备战地4本体和原版BOT v0.1（261015）。本包不含游戏或BOT。
-1. 完整解压分享包，打开“BF4 MOD助手.exe”。
-2. 选“只有 BOT 包”，MOD安装目录选单独空文件夹，例如D:\BF4Mods。
-3. 选择游戏目录（有bf4.exe、Data、Update）和BOT目录（有BF4Launcher.exe、Server），点“安装／升级 MOD”。
-4. 打开踹哈助手，选地图和人数，开战。所需功能在“踹哈 MOD”中开启并应用，游玩时保持助手运行。
+准备战地4本体和 11.7 的 BOT V2 全量包，本包配套开服工具 0.8.5。
+1. 完整解压分享包，打开 BF4 MOD助手.exe。
+2. 选择游戏目录和 BOT V2 原包目录；MOD 安装位置选独立空文件夹，例如 D:\BF4Mods。
+3. 安装完成后打开踹哈助手，选地图开服，再启动游戏。
 
-下载：https://wwavs.lanzouv.com/ijYrd4epc8rg
-密码：hd01
+游戏目录包含 Data、Update；BOT 目录包含 BF4Launcher.exe、Server，不要只选择 Server。
+安装前退出游戏、启动器与这份工具的服务，保留游戏资源和存档备份。
 
-V0.2更新：退出游戏和启动器，停止服务和管理后台，再退出助手。新版解压到新文件夹，打开新版“BF4 MOD助手.exe”，安装目录选旧MOD所在目录，点“安装／升级 MOD”。无需先卸载，保留配置和存档。不要直接覆盖游戏目录或删除mod-backups。
+下载：https://github.com/gjrxl/bf4-bot-mods/releases/tag/v0.4
+网盘：https://wwavs.lanzouv.com/ilD9B4f8p1ih
+密码：c9nf
 
-仅测试本机单人BOT；1秒死亡卡片需关闭击杀视角、重生时间倍率设为最低1%；无散布会同时无后座。
-已知问题：开发测试期间出现过游戏资源目录丢失，原因未查清。安装/更新前请保留完整游戏资源与存档备份。
-详细图文步骤见压缩包“安装教程.html”。
+仅单人离线测试，联机未验证。秒复活请在辅助页点“一键修改”，然后重启游戏服；地图轮换保存后也要重启。
+精简包不附带原版独立界面个性化工具，踹哈助手及 MOD 功能保留。
+
+原作者新版视频：
+BOT：https://www.bilibili.com/video/BV1bC4j6wE9V/
+开服工具：https://www.bilibili.com/video/BV1mg4E6aEAc/
